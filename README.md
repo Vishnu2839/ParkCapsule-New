@@ -5,4 +5,3 @@ Park Capsule, a revolutionary solution designed to transform urban parking. Our 
 
 https://park-capsule-new.vercel.app/
 
-# fi
