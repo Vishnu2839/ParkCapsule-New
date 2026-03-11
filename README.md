@@ -4,25 +4,20 @@ Tip: Works best with GitHub Dark Mode too.
 -->
 
 <div align="center">
-
 <!-- Title -->
 # 🚗🅿️ Park Capsule
 
  🌆 Smart Urban Parking — **Find • Book • Pay • Navigate**
 
 **Park Capsule** is a full‑stack platform that helps drivers reserve nearby parking effortlessly and enables space owners to monetize unused parking spots.
-
 <br/>
-
 <!-- CTAs -->
 <a href="https://park-capsule-new.vercel.app/"><b>🌐 Live Demo</b></a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="../../issues"><b>🐞 Report Bug</b></a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="../../issues"><b>✨ Request Feature</b></a>
-
 <br/><br/>
-
 <!-- Badges (clean & attractive) -->
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/React-0b1220?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -30,15 +25,14 @@ Tip: Works best with GitHub Dark Mode too.
 <img alt="Razorpay" src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white"/>
 <img alt="Google Maps" src="https://img.shields.io/badge/Google%20Maps-1a73e8?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 <img alt="Twilio" src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white"/>
-
 <br/><br/>
-
 <!-- Aesthetic separator -->
 <p>
   <i>Built for speed, simplicity, and smarter cities.</i>
 </p>
-
 </div>
+
+---
 
 ## ✨ Why Park Capsule?
 
@@ -170,14 +164,14 @@ npm run serve
 
 ## 🔐 Environment Variables
 
-### 🎨 Frontend: `park-capsule/.env.local`
+ 🎨 Frontend: `park-capsule/.env.local`
 ```bash
 NEXT_PUBLIC_API_BASE_URL=http://localhost:5000
 NEXT_PUBLIC_GOOGLE_MAPS_API_KEY=your_google_maps_key
 NEXT_PUBLIC_RAZORPAY_KEY_ID=your_razorpay_key_id
 ```
 
-### 🛠️ Backend: `backend/.env`
+ 🛠️ Backend: `backend/.env`
 ```bash
 PORT=5000
 
