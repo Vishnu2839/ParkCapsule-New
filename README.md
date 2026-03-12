@@ -117,9 +117,7 @@ ParkCapsule-New/
 │   ├── next.config.js
 │   ├── package.json
 │   └── yarn.lock
-└── backend/                      # 🛠️ Express Backend
-    ├── package.json
-    └── ...
+
 ```
 
 ---
